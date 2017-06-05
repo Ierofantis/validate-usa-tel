@@ -1,6 +1,6 @@
-## date-usa-tel
+## validate-usa-tel
 
-String date-usa-tel
+String validate-usa-tel
 
 Time complexity: **O(log(n))**
 
@@ -9,13 +9,13 @@ Time complexity: **O(log(n))**
 ## Install
 
 ```bash
-$ npm install date-usa-tel
+$ npm install validate-usa-tel
 ```
 
 ## Usage
 
 ```js
-const Validate = require('date-usa-tel')
+const Validate = require('validate-usa-tel')
 
 Validate("555-555-5555") should return a boolean.
 Validate("1 555-555-5555") should return true.

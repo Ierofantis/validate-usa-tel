@@ -1,5 +1,4 @@
 {
-
   "name": "validate-usa-tel",
   "version": "0.0.1",
   "description": "String validate-usa-tel",
@@ -8,11 +7,11 @@
 
   },
   "keywords": [
-    "titlecase",
-    "title",
-    "title-case-sentence",
-    "case",
-    "sentence"    
+    "validate-usa-tel",
+    "telephone",
+    "validate",
+    "usa",
+    "string"    
   ],
   "repository": {
     "url": "https://github.com/Ierofantis/validate-usa-tel.git",
