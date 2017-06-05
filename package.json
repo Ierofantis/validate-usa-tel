@@ -1,0 +1,29 @@
+{
+
+  "name": "validate-usa-tel",
+  "version": "0.0.1",
+  "description": "String validate-usa-tel",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "titlecase",
+    "title",
+    "title-case-sentence",
+    "case",
+    "sentence"    
+  ],
+  "repository": {
+    "url": "https://github.com/Ierofantis/validate-usa-tel.git",
+    "type": "git"
+  },
+  "author": "Ierofantis",
+  "maintainers": [
+    {
+      "name": "ierofantis666",
+      "email": "teopanta1986@gmail.com"
+    }
+  ],
+  "license": "WTFPL"
+}
