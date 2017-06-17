@@ -2,10 +2,6 @@
 
 String validate-usa-tel
 
-Time complexity: **O(log(n))**
-
-
-
 ## Install
 
 ```bash
